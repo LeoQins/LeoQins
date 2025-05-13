@@ -26,9 +26,9 @@ In addition to my major in **Communication Principles**, I am actively learning 
 ## 👨‍💻 Featured Projects
 Here are a few projects that I’m currently working on or have completed:
 
-- **[Graph Neural Network for Social Network Analysis](https://github.com/your-username/project-name)** - Using GNNs to analyze and predict behaviors within complex social networks.
-- **[Generative Language Model for Text Synthesis](https://github.com/your-username/project-name)** - Developing a generative language model to create contextually relevant text.
-- **[Time Series Forecasting](https://github.com/your-username/project-name)** - Implementing models to predict time-dependent patterns in data.
+- **[Graph Neural Network for Social Network Analysis](https://github.com/LeoQins/VisionTransformer)** - Using GNNs to analyze and predict behaviors within complex social networks.
+- **[Generative Language Model for Text Synthesis](https://github.com/LeoQins/ECShiXun)** - Developing a generative language model to create contextually relevant text.
+- **[Time Series Forecasting](https://github.com/LeoQins/ECShiXun)** - Implementing models to predict time-dependent patterns in data.
 
 _For more projects, check out my [GitHub repositories](https://github.com/your-username?tab=repositories)._
 
