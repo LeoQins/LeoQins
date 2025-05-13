@@ -30,12 +30,12 @@ Here are a few projects that I’m currently working on or have completed:
 - **[Generative Language Model for Text Synthesis](https://github.com/LeoQins/ECShiXun)** - Developing a generative language model to create contextually relevant text.
 - **[Time Series Forecasting](https://github.com/LeoQins/ECShiXun)** - Implementing models to predict time-dependent patterns in data.
 
-_For more projects, check out my [GitHub repositories](https://github.com/your-username?tab=repositories)._
+_For more projects, check out my [GitHub repositories](https://github.com/LeoQins?tab=repositories)._
 
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-username)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/LeoQims)
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 
 I’m always open to connecting with like-minded individuals and exploring collaborative projects!
